@@ -8,7 +8,7 @@ I uploaded my allTheta.mat file which will probably will not detect your voice :
 
 2. Train this dataset with "numberVoiceDatasetTrain.m" file which will create "allTheta.mat" file.
 
-3. Use numberVoiceDetection.m file to record your voice and detect which number you are speaking.
+3. Use "numberVoiceDetection.m" file to record your voice and detect which number you are speaking.
 
 Notes:
 
