@@ -12,6 +12,6 @@ I uploaded my allTheta.mat file which will probably not detect your voice :) so 
 
 Notes:
 
-As you might know, even human ear hear with frequency domain not with raw data. Similarly in machine learning applications, detection with raw record data is a mess and the performance is low. To have a meaningfull data, FFT of records are taken so algorithm works on frequency domain. Further optimizations can be done on the fft data to differentiate each training category for better performance.
+As you might know, even human ear hear with frequency domain not with raw data. Similarly in machine learning applications, detection with raw record data is a mess and the performance is low. To have a meaningful data, FFT of records are taken so algorithm works on frequency domain. Further optimizations can be done on the fft data to differentiate each training category for better performance.
 
   
