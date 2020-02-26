@@ -1,4 +1,4 @@
-# Neural_Network_Word_Recognition
+# NEURAL_NETWORK_WORD_RECOGNITION
 
 This is a simple Neural Network Implementation based on the Stanford University Prof. Andrew Ng's course on coursera.
 Check to learn more: https://www.coursera.org/learn/machine-learning
